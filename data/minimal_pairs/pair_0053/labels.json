@@ -1,0 +1,23 @@
+{
+  "sentence": "The electrician repaired the broken circuit.",
+  "tokens": [
+    "The",
+    "electrician",
+    "repaired",
+    "the",
+    "broken",
+    "circuit"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "electrician",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "circuit",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sentence": "The musician composed the melody.",
+  "tokens": [
+    "The",
+    "musician",
+    "composed",
+    "the",
+    "melody"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "musician",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "melody",
+      "focus_index": 4,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sentence": "Emily painted the landscape.",
+  "tokens": [
+    "Emily",
+    "painted",
+    "the",
+    "landscape"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "Emily",
+      "focus_index": 0,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "landscape",
+      "focus_index": 3,
+      "type": "contrastive"
+    }
+  }
+}

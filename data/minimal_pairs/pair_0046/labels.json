@@ -1,0 +1,22 @@
+{
+  "sentence": "The firefighter rescued the cat.",
+  "tokens": [
+    "The",
+    "firefighter",
+    "rescued",
+    "the",
+    "cat"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "firefighter",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "cat",
+      "focus_index": 4,
+      "type": "contrastive"
+    }
+  }
+}

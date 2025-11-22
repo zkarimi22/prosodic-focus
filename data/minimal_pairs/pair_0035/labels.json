@@ -1,0 +1,22 @@
+{
+  "sentence": "The gardener planted the flowers.",
+  "tokens": [
+    "The",
+    "gardener",
+    "planted",
+    "the",
+    "flowers"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "gardener",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "flowers",
+      "focus_index": 4,
+      "type": "contrastive"
+    }
+  }
+}

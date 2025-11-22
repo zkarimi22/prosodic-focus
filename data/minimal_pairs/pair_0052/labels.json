@@ -1,0 +1,22 @@
+{
+  "sentence": "The librarian organized the bookshelf.",
+  "tokens": [
+    "The",
+    "librarian",
+    "organized",
+    "the",
+    "bookshelf"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "librarian",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "bookshelf",
+      "focus_index": 4,
+      "type": "contrastive"
+    }
+  }
+}
