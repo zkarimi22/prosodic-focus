@@ -1,0 +1,23 @@
+{
+  "sentence": "The engineer designed a sturdy bridge.",
+  "tokens": [
+    "The",
+    "engineer",
+    "designed",
+    "a",
+    "sturdy",
+    "bridge"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "engineer",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "bridge",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "The painter created a vibrant mural.",
+  "tokens": [
+    "The",
+    "painter",
+    "created",
+    "a",
+    "vibrant",
+    "mural"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "painter",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "mural",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

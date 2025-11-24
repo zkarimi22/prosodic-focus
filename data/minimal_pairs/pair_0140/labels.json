@@ -1,0 +1,23 @@
+{
+  "sentence": "The musician composed an inspiring symphony.",
+  "tokens": [
+    "The",
+    "musician",
+    "composed",
+    "an",
+    "inspiring",
+    "symphony"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "musician",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "symphony",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

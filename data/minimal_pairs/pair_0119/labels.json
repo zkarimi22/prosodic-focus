@@ -1,0 +1,23 @@
+{
+  "sentence": "The mechanic repaired the vintage car.",
+  "tokens": [
+    "The",
+    "mechanic",
+    "repaired",
+    "the",
+    "vintage",
+    "car"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "mechanic",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "car",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

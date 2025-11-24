@@ -1,0 +1,23 @@
+{
+  "sentence": "The pilot flew a sleek airplane.",
+  "tokens": [
+    "The",
+    "pilot",
+    "flew",
+    "a",
+    "sleek",
+    "airplane"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "pilot",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "airplane",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

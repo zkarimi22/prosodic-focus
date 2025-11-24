@@ -1,0 +1,23 @@
+{
+  "sentence": "The teacher wrote a comprehensive textbook.",
+  "tokens": [
+    "The",
+    "teacher",
+    "wrote",
+    "a",
+    "comprehensive",
+    "textbook"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "teacher",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "textbook",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

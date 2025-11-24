@@ -1,0 +1,23 @@
+{
+  "sentence": "The carpenter crafted a sturdy chair.",
+  "tokens": [
+    "The",
+    "carpenter",
+    "crafted",
+    "a",
+    "sturdy",
+    "chair"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "carpenter",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "chair",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "The photographer captured the beautiful sunset.",
+  "tokens": [
+    "The",
+    "photographer",
+    "captured",
+    "the",
+    "beautiful",
+    "sunset"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "photographer",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "sunset",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

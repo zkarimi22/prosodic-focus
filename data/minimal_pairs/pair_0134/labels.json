@@ -1,0 +1,23 @@
+{
+  "sentence": "The dog buried a large bone.",
+  "tokens": [
+    "The",
+    "dog",
+    "buried",
+    "a",
+    "large",
+    "bone"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "dog",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "bone",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

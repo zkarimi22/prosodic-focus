@@ -1,0 +1,23 @@
+{
+  "sentence": "The teacher explained the complex equation.",
+  "tokens": [
+    "The",
+    "teacher",
+    "explained",
+    "the",
+    "complex",
+    "equation"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "teacher",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "equation",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

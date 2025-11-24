@@ -1,0 +1,23 @@
+{
+  "sentence": "The engineer designed a futuristic car.",
+  "tokens": [
+    "The",
+    "engineer",
+    "designed",
+    "a",
+    "futuristic",
+    "car"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "engineer",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "car",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sentence": "The chef prepared a delicious pasta dish.",
+  "tokens": [
+    "The",
+    "chef",
+    "prepared",
+    "a",
+    "delicious",
+    "pasta",
+    "dish"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "chef",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "dish",
+      "focus_index": 6,
+      "type": "contrastive"
+    }
+  }
+}

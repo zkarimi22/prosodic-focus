@@ -1,0 +1,23 @@
+{
+  "sentence": "The artist painted a vibrant landscape.",
+  "tokens": [
+    "The",
+    "artist",
+    "painted",
+    "a",
+    "vibrant",
+    "landscape"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "artist",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "landscape",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

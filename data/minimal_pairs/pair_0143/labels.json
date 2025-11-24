@@ -1,0 +1,23 @@
+{
+  "sentence": "The architect built a modern skyscraper.",
+  "tokens": [
+    "The",
+    "architect",
+    "built",
+    "a",
+    "modern",
+    "skyscraper"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "architect",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "skyscraper",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

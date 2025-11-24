@@ -1,0 +1,23 @@
+{
+  "sentence": "The carpenter crafted an elegant table.",
+  "tokens": [
+    "The",
+    "carpenter",
+    "crafted",
+    "an",
+    "elegant",
+    "table"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "carpenter",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "table",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

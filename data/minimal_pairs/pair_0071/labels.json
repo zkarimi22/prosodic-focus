@@ -1,0 +1,23 @@
+{
+  "sentence": "The scientist invented an innovative gadget.",
+  "tokens": [
+    "The",
+    "scientist",
+    "invented",
+    "an",
+    "innovative",
+    "gadget"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "scientist",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "gadget",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "The gardener planted a vibrant sunflower.",
+  "tokens": [
+    "The",
+    "gardener",
+    "planted",
+    "a",
+    "vibrant",
+    "sunflower"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "gardener",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "sunflower",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

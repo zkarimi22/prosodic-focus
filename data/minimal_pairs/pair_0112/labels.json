@@ -1,0 +1,23 @@
+{
+  "sentence": "The author wrote a captivating novel.",
+  "tokens": [
+    "The",
+    "author",
+    "wrote",
+    "a",
+    "captivating",
+    "novel"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "author",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "novel",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "A painter captured the serene landscape.",
+  "tokens": [
+    "A",
+    "painter",
+    "captured",
+    "the",
+    "serene",
+    "landscape"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "painter",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "landscape",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

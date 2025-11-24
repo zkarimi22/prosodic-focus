@@ -1,0 +1,23 @@
+{
+  "sentence": "The gardener planted a vibrant rosebush.",
+  "tokens": [
+    "The",
+    "gardener",
+    "planted",
+    "a",
+    "vibrant",
+    "rosebush"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "gardener",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "rosebush",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

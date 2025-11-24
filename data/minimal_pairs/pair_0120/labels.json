@@ -1,0 +1,23 @@
+{
+  "sentence": "The librarian organized the historical archives.",
+  "tokens": [
+    "The",
+    "librarian",
+    "organized",
+    "the",
+    "historical",
+    "archives"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "librarian",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "archives",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

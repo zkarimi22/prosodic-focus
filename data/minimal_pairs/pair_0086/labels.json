@@ -1,0 +1,23 @@
+{
+  "sentence": "The scientist discovered a new species.",
+  "tokens": [
+    "The",
+    "scientist",
+    "discovered",
+    "a",
+    "new",
+    "species"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "scientist",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "species",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

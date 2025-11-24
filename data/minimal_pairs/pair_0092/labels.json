@@ -1,0 +1,23 @@
+{
+  "sentence": "The inventor designed a solar-powered gadget.",
+  "tokens": [
+    "The",
+    "inventor",
+    "designed",
+    "a",
+    "solar-powered",
+    "gadget"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "inventor",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "gadget",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "The teacher wrote an engaging lesson.",
+  "tokens": [
+    "The",
+    "teacher",
+    "wrote",
+    "an",
+    "engaging",
+    "lesson"
+  ],
+  "audio_files": {
+    "audio_focus_subject.wav": {
+      "focus_token": "teacher",
+      "focus_index": 1,
+      "type": "contrastive"
+    },
+    "audio_focus_object.wav": {
+      "focus_token": "lesson",
+      "focus_index": 5,
+      "type": "contrastive"
+    }
+  }
+}
