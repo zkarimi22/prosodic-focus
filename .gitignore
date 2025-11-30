@@ -1,3 +1,4 @@
 # Ignore all WAV audio files
 *.wav
 
+.env.local
