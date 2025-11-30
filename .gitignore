@@ -2,3 +2,5 @@
 *.wav
 
 .env.local
+*.zip
+*.DS_Store
